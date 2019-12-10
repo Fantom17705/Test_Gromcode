@@ -1,6 +1,5 @@
 body {
     background: url("https://previews.123rf.com/images/vska/vska1412/vska141200157/34603101-abstract-vector-background-futuristic-technology-style-elegant-background-for-business-tech-presenta.jpg") no-repeat center top / cover;
-    url
     padding: 0;
     margin: 0;
     font-family: 'Merriweather', serif;
@@ -27,6 +26,7 @@ h2 {
 }
 h3 {
     font-family: 'Sulphur Point', sans-serif;
+
 }
 div {
     width: 1200px;
@@ -36,6 +36,7 @@ div {
 main {
     font-size: 20px;
 
+
 }
 aside, main {
 width: 50%;
@@ -43,11 +44,11 @@ width: 50%;
 }
 aside img{
     display: block;
-    width: 70%;
+    width: 60%;
     margin: auto;
-    padding: 10px 0;
-    border-radius: 30px;
-    box-shadow: 0 0 0 3px #DDD6C6, 0 0 13px #333;
+    padding: 30px 0;
+    border-radius: 10px;
+
 
 }
 footer p {
@@ -59,8 +60,14 @@ footer ul {
     text-align: center;
 }
 .info {
-padding: 10px 100px;
+padding: 10px 120px;
     margin: 0;
     font-size: 18px;
 }
-
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
