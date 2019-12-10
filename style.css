@@ -1,3 +1,66 @@
 body {
-    background-color: #25EFEC;
+    background: url("https://previews.123rf.com/images/vska/vska1412/vska141200157/34603101-abstract-vector-background-futuristic-technology-style-elegant-background-for-business-tech-presenta.jpg") no-repeat center top / cover;
+    url
+    padding: 0;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+
 }
+ul {
+    padding: 0;
+}
+header, footer {
+    background: url("http://www.bugsex.net/images/bcg.jpg");
+    padding: 20px 0;
+    border: 10px gray;
+    box-shadow: 0 0 0 3px #DDD6C6, 0 0 13px #333;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+h3 {
+    font-family: 'Sulphur Point', sans-serif;
+}
+div {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+main {
+    font-size: 20px;
+
+}
+aside, main {
+width: 50%;
+    float: left;
+}
+aside img{
+    display: block;
+    width: 70%;
+    margin: auto;
+    padding: 10px 0;
+    border-radius: 30px;
+    box-shadow: 0 0 0 3px #DDD6C6, 0 0 13px #333;
+
+}
+footer p {
+    color: white;
+    text-align: center;
+}
+footer ul {
+    display: block;
+    text-align: center;
+}
+.info {
+padding: 10px 100px;
+    margin: 0;
+    font-size: 18px;
+}
+
